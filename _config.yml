@@ -1,7 +1,7 @@
 # site settings
 title: Prep
 subtitle: in Tech
-email: youremailaddress@gmail.com
+email: someprepintechemail@gmail.com
 description: Collaborate with other Prep for Prep alums in the tech sector.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
